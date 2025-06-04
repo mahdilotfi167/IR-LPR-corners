@@ -42,6 +42,6 @@ The `annotations.csv` file contains 1,883 rows. Each row corresponds to one imag
 
 ## 📥 Download
 
-- [🤗 Hugging Face](#)  
+- [🤗 Hugging Face](https://huggingface.co/datasets/mahdilotfi/IR-LPR-corners)  
 - [📎 Kaggle](#)
 - [📎 Google Drive](https://drive.google.com/file/d/1SMejgERlzYlrdL0ZO-5-H2RnT8rrA5s8/view?usp=sharing)  
