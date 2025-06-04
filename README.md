@@ -9,14 +9,16 @@ This dataset contains **1,883 manually annotated images** of Iranian vehicles, e
 - Supervised learning for keypoint regression
 
 This dataset was created as part of an educational project in the *Fundamentals of Computer Vision* course at **K. N. Toosi University of Technology**, Spring 2024.  
-Course website: [wp.kntu.ac.ir/nasihatkon/teaching/cvug/s2024](https://wp.kntu.ac.ir/nasihatkon/teaching/cvug/s2024)
+Course website: [wp.kntu.ac.ir/nasihatkon/teaching/cvug/s2024](https://wp.kntu.ac.ir/nasihatkon/teaching/cvug/s2024)  
+Project Documentation: [(Google Docs)](https://docs.google.com/document/d/1X_4XfrSYKjdUuRq0TpALfe6Bu-2zzS8njrEk-ML-0Ws/edit?usp=sharing)
+
 
 ## 📦 Dataset Structure
 
 ```
 ./
 ├── images/                # 1,883 car images with visible Iranian license plates
-├── annotations.csv        # CSV file with normalized corner coordinates
+└── annotations.csv        # CSV file with normalized corner coordinates
 ```
 
 ### 📋 Annotation Format
